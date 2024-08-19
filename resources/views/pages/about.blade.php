@@ -2,7 +2,7 @@
 
 @section('main')
     <!-- page title start -->
-    <div class="breadcrumb-area bg-cover" style="background-image: url('assets/img/bg/3.png');">
+    <div class="breadcrumb-area bg-cover" style="background-image: url('{{ asset('assets/img/bg/3.png') }}');">
         <div class="container">
             <div class="breadcrumb-inner">
                 <div class="row justify-content-center">
@@ -27,9 +27,9 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-thumb-inner pe-xl-5 me-xl-5">
-                        <img class="animate-img-1 top_image_bounce" src="assets/img/about/2.png" alt="img">
-                        <img class="animate-img-2 left_image_bounce" src="assets/img/about/3.png" alt="img">
-                        <img class="main-img" src="assets/img/about/1.png" alt="img">
+                        <img class="animate-img-1 top_image_bounce" src="{{ asset('assets/img/about/2.png') }}" alt="img">
+                        <img class="animate-img-2 left_image_bounce" src="{{ asset('assets/img/about/3.png') }}" alt="img">
+                        <img class="main-img" src="{{ asset('assets/img/about/1.png') }}" alt="img">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -47,7 +47,7 @@
                             <div class="col-md-6">
                                 <div class="single-about-inner">
                                     <div class="thumb mb-3">
-                                        <img src="assets/img/icon/2.png" alt="img">
+                                        <img src="{{ asset('assets/img/icon/2.png') }}" alt="img">
                                     </div>
                                     <div class="details">
                                         <h5>Our Ambition</h5>
@@ -59,7 +59,7 @@
                             <div class="col-md-6">
                                 <div class="single-about-inner">
                                     <div class="thumb mb-3">
-                                        <img src="assets/img/icon/3.png" alt="img">
+                                        <img src="{{ asset('assets/img/icon/3.png') }}" alt="img">
                                     </div>
                                     <div class="details">
                                         <h5>Our Ambition</h5>
@@ -87,7 +87,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-work-process-inner">
                         <div class="thumb mb-3">
-                            <img src="assets/img/about/think.png" alt="img">
+                            <img src="{{ asset('assets/img/about/think.png') }}" alt="img">
                         </div>
                         <div class="details">
                             <p class="process-count">Work 01</p>
@@ -99,7 +99,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-work-process-inner">
                         <div class="thumb mb-3">
-                            <img src="assets/img/about/solve.png" alt="img">
+                            <img src="{{ asset('assets/img/about/solve.png') }}" alt="img">
                         </div>
                         <div class="details">
                             <p class="process-count">Work 02</p>
@@ -111,7 +111,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-work-process-inner">
                         <div class="thumb mb-3">
-                            <img src="assets/img/about/think.png" alt="img">
+                            <img src="{{ asset('assets/img/about/think.png') }}" alt="img">
                         </div>
                         <div class="details">
                             <p class="process-count">Work 03</p>
@@ -123,7 +123,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-work-process-inner">
                         <div class="thumb mb-3">
-                            <img src="assets/img/about/antenna.png" alt="img">
+                            <img src="{{ asset('assets/img/about/antenna.png') }}" alt="img">
                         </div>
                         <div class="details">
                             <p class="process-count">Work 04</p>

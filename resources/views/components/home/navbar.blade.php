@@ -8,8 +8,8 @@
             </button>
         </div>
         <div class="logo">
-            <a href="index.html"><img src="assets/img/logos.png" alt="img"></a>
-            {{-- <a href="index.html"><img src="assets/img/logo.png" alt="img"></a> --}}
+            <a href="index.html"><img src="{{ asset('assets/img/logos.png') }}" alt="img"></a>
+            {{-- <a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt="img"></a> --}}
         </div>
         <div class="nav-right-part nav-right-part-mobile">
             <a class="search-bar-btn" href="#">
@@ -20,7 +20,6 @@
             <ul class="navbar-nav menu-open text-lg-center ps-lg-5">
                 <li class="">
                     <a href="{{ route('home') }}">Home</a>
-
                 </li>
                 <li class="menu-item-has-children">
                     <a href="#">Products</a>
@@ -31,7 +30,6 @@
                         <li><a href="{{ route('icomply') }}">Compliance & Monitoring Solutions</a></li>
                         <li><a href="{{ route('mobile') }}">Mobile Application</a></li>
                         <li><a href="{{ route('webapp') }}">Web Application</a></li>
-
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -39,12 +37,9 @@
                 </li>
                 <li class="">
                     <a href="{{ route('about') }}">About</a>
-
-
                 </li>
                 <li class="menu-item-has-children">
                     <a href="#">Contact</a>
-
                 </li>
                 <li><a href="{{ url('https://novajii.com/ords/f?p=bulksms:login') }}">Login</a></li>
             </ul>

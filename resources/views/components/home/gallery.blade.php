@@ -9,7 +9,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="assets/img/case-study/1.png" alt="img">
+                        <img src="{{ asset('assets/img/case-study/1.png') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Tecnology Farms</a></h5>
@@ -21,7 +21,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="assets/img/case-study/2.png" alt="img">
+                        <img src="{{ asset('assets/img/case-study/2.png"') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Tecnology Farms</a></h5>
@@ -33,7 +33,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-case-study-inner">
                     <div class="thumb">
-                        <img src="assets/img/case-study/3.png" alt="img">
+                        <img src="{{ asset('assets/img/case-study/3.png') }}" alt="img">
                     </div>
                     <div class="details">
                         <h5><a href="project-details.html">Tecnology Farms</a></h5>

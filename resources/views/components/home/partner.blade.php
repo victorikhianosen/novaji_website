@@ -7,31 +7,19 @@
         <div class="row">
             <div class="swiper myPartners">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/fidelity.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/sterling.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/taj.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/lapo.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/mtn.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/glo.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/airtel.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/9mobile.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/boi.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/credit.png"
-                            alt=""></div>
-                    <div class="swiper-slide swiper-slide-partner"><img src="assets/img/partners/fiberone.png"
-                            alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/fidelity.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/sterling.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/taj.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/lapo.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/mtn.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/glo.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/airtel.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/9mobile.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/boi.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/credit.png') }}" alt=""></div>
+                    <div class="swiper-slide swiper-slide-partner"><img src="{{ asset('assets/img/partners/fiberone.png') }}" alt=""></div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
