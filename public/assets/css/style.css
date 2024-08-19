@@ -728,7 +728,9 @@ ul {
 
 .read-more-text {
   position: relative;
-  color: var(--heading-color);
+  /* color: var(--heading-color); */
+  color: var(--main-color);
+
   font-weight: 600;
 }
 .read-more-text i {
@@ -1299,7 +1301,7 @@ ul {
 .swiper-slide-partner img {
     width: 100px;
     height: 100px;
-    object-fit: contain; 
+    object-fit: contain;
 }
 
 

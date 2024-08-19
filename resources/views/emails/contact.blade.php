@@ -89,7 +89,7 @@
         </div>
         <div class="footer">
             <p>&copy; {{ date('Y') }} Novaji Introserve. All Rights Reserved.</p>
-            <p><a href="#">Unsubscribe</a> | <a href="#">Contact Us</a></p>
+            <p><a href="#">a href="#">Contact Us</a></p>
         </div>
     </div>
 </body>
