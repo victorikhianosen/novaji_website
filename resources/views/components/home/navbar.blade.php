@@ -21,8 +21,9 @@
                 <li class="">
                     <a href="{{ route('home') }}">Home</a>
                 </li>
+
                 <li class="menu-item-has-children">
-                    <a href="#">Products</a>
+                    <a href="">Service</a>
                     <ul class="sub-menu">
                         <li><a href="{{ route('ussd') }}">USSD</a></li>
                         <li><a href="{{ route('sms') }}">SMS</a></li>
@@ -32,15 +33,19 @@
                         <li><a href="{{ route('webapp') }}">Web Application</a></li>
                     </ul>
                 </li>
-                <li class="menu-item-has-children">
-                    <a href="#">Service</a>
+
+                <li class="">
+                    <a href="{{ route('product') }}">Products</a>
+                    {{-- <ul class="sub-menu">
+                        <li><a href="{{ route('icomply') }}">iComply</a></li>
+                        <li><a href="{{ route('product') }}">Soft Token</a></li>
+                    </ul> --}}
                 </li>
+
                 <li class="">
                     <a href="{{ route('about') }}">About</a>
                 </li>
-                <li class="menu-item-has-children">
-                    <a href="#">Contact</a>
-                </li>
+
                 <li><a href="{{ url('https://novajii.com/ords/f?p=bulksms:login') }}">Login</a></li>
             </ul>
         </div>

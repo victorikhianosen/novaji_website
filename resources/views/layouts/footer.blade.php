@@ -66,6 +66,46 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="widget widget_nav_menu">
+                    <h4 class="widget-title">Our Service</h4>
+                    <ul>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Ui Design</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Web design</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Digital marketing </a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Video Editing</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Pc Repairs</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Web Development</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="widget widget_nav_menu">
+                    <h4 class="widget-title">Pay links</h4>
+                    <ul>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Credit industrys</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Reasearch sector</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Finance Sector </a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Credit industrys</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Reasearch sector</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Finance Sector</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="widget widget_nav_menu">
+                    <h4 class="widget-title">Pay links</h4>
+                    <ul>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Credit industrys</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Reasearch sector</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Finance Sector </a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Credit industrys</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Reasearch sector</a></li>
+                        <li><a href="service.html"><i class="fas fa-arrow-right"></i> Finance Sector</a></li>
+                    </ul>
+                </div>
+            </div>
             <!-- Other columns remain unchanged -->
         </div>
     </div>
@@ -84,6 +124,19 @@
         </div>
     </div>
 </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- footer area end -->
 
 <!-- back to top area start -->

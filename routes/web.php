@@ -28,3 +28,4 @@ Route::get('/payment', [PageController::class, 'payment'])->name('payment');
 Route::get('/icomply', [PageController::class, 'icomply'])->name('icomply');
 Route::get('/mobile', [PageController::class, 'mobile'])->name('mobile');
 Route::get('/webapp', [PageController::class, 'webapp'])->name('webapp');
+Route::get('/product', [PageController::class, 'product'])->name('product');

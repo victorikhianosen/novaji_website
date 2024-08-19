@@ -4,6 +4,7 @@
 
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
+
             <div class="swiper-slide">
                 <div class="container">
                     <div class="row">
@@ -25,13 +26,14 @@
                                  data-wow-duration="1.5s" data-wow-delay="0.3s">
                                 <img class="banner-animate-img banner-animate-img-1 top_image_bounce"
                                      src="{{ asset('assets/img/banner/2.png') }}" alt="img">
-                                <img class="main-img" src="{{ asset('assets/img/banner/111.jpg') }}" alt="img">
+                                <img class="main-img" src="{{ asset('assets/img/banner/112.png') }}" alt="img">
                                 {{-- <img class="main-img" src="{{ asset('assets/img/banner/1.png') }}" alt="img"> --}}
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div class="swiper-slide">
                 <div class="container">
                     <div class="row">

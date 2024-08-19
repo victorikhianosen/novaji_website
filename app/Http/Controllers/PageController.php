@@ -30,6 +30,9 @@ class PageController extends Controller
     public function webapp() {
         return view('pages.webapp');
     }
+    public function product() {
+        return view('pages.product');
+    }
 
 
 }

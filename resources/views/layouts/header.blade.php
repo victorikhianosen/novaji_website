@@ -31,6 +31,8 @@
             </div>
         </div>
     </div>
+
+
     <!-- preloader area end -->
 
     <!-- search popup start-->
@@ -47,4 +49,3 @@
 
     <x-home.navbar />
 
- 
