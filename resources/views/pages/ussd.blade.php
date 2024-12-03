@@ -134,9 +134,9 @@
 
     <div class="pricing-area bg-gray pd-top-80 pd-bottom-120">
         <div class="container">
-            <div class="section-title text-center">
-                <h6 class="sub-title">Mobile Partners</h6>
-                <h2 class="title">Best plane to get our <span>Services</span></h2>
+         <div class="section-title text-center">
+                <h6 class="sub-title">Our Trusted Partners</h6>
+                <h2 class="title">Partnering with Leaders for <span>Exceptional Services</span></h2>
             </div>
             <div class="row">
                 <div class="swiper myPartners">

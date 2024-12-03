@@ -128,4 +128,33 @@
             </div>
         </div>
     </div>
+
+
+
+        <div class="pricing-area bg-gray pd-top-80 pd-bottom-120">
+        <div class="container">
+         <div class="section-title text-center">
+                <h6 class="sub-title">Our Trusted Partners</h6>
+                <h2 class="title">Partnering with Leaders for <span>Exceptional Services</span></h2>
+            </div>
+            <div class="row">
+                <div class="swiper myPartners">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/fidelity.png') }}" alt=""></div>
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/lapo.png') }}" alt=""></div>
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/mtn.png') }}" alt=""></div>
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/glo.png') }}" alt=""></div>
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/airtel.png') }}" alt=""></div>
+                        <div class="swiper-slide swiper-slide-partner"><img
+                                src="{{ asset('assets/img/partners/9mobile.png') }}" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
