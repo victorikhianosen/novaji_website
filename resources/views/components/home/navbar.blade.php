@@ -8,7 +8,7 @@
             </button>
         </div>
         <div class="logo">
-            {{-- <a href="index.html"><img src="{{ asset('assets/img/logos.png') }}" alt="img"></a> --}}
+            <a href="index.html"><img src="{{ asset('assets/img/logos.png') }}" alt="img"></a>
             {{-- <a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt="img"></a> --}}
         </div>
         <div class="nav-right-part nav-right-part-mobile">

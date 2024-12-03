@@ -25,7 +25,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="widget widget_about">
                     <div class="thumb">
-                        {{-- <img src="{{ asset('assets/img/logo-black.png') }}" alt="img"> --}}
+                        <img src="{{ asset('assets/img/logo-black.png') }}" alt="img">
                     </div>
                     <div class="details">
                         <p>10a Comfort Close, Ojodu Estate
