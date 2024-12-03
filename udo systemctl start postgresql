@@ -1,0 +1,9 @@
+[0;1;32m●[0m postgresql.service - PostgreSQL RDBMS
+     Loaded: loaded (/lib/systemd/system/postgresql.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (exited)[0m since Wed 2023-11-08 14:37:17 WAT; 1 years 0 months ago
+   Main PID: 1754914 (code=exited, status=0/SUCCESS)
+      Tasks: 0 (limit: 18715)
+     Memory: 0B
+     CGroup: /system.slice/postgresql.service
+
+Warning: journal has been rotated since unit was started, output may be incomplete.
