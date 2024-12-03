@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    {{-- <title>Novaji - IT Solutions & Technology</title> --}}
-    {{-- <link rel="icon" href="{{ asset('assets/img/logoo.png') }}" sizes="20x20" type="image/png"> --}}
+    <title>Novaji Introserve - IT Solutions & Technology</title>
+    <link rel="icon" href="{{ asset('assets/img/logoo.png') }}" sizes="20x20" type="image/png">
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
