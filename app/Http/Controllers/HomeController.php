@@ -25,6 +25,8 @@ class HomeController extends Controller
             'message' => 'required',
         ]);
 
+        dd($formField);
+
         Contact::create($formField);
 
         $clientMail = $formField['email'];

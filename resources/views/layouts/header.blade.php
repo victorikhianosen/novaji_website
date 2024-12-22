@@ -1,11 +1,20 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Novaji Introserve - IT Solutions & Technology">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="language" content="English">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Novaji Introserve - IT Solutions & Technology">
+
+
     <title>Novaji Introserve - IT Solutions & Technology</title>
     <link rel="icon" href="{{ asset('assets/img/logoo.png') }}" sizes="20x20" type="image/png">
 
@@ -48,4 +57,3 @@
     <div class="body-overlay" id="body-overlay"></div>
 
     <x-home.navbar />
-

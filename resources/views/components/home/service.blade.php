@@ -8,58 +8,10 @@
                         alt="img">
                     <img class="animate-img-2 left_image_bounce" src="{{ asset('assets/img/about/3.png') }}"
                         alt="img">
-                    <img class="main-img" src="{{ asset('assets/img/about/1.png') }}" alt="img">
+                    <img class="main-img" src="{{ asset('assets/img/girl.png') }}" alt="img">
                 </div>
             </div>
-            {{-- <div class="col-lg-6 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                <div class="section-title mt-5 mt-lg-0">
-                    <h6 class="sub-title">Lorem, ipsum.</h6>
-                    <h2 class="title">It Is A Critical Component Of <span>Modern</span> Businesses</h2>
-                    <p class="content mb-4 mb-xl-5">Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry Loreaim Ipsum has been the industry's standard dummy</p>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="single-about-inner">
-                                <div class="details">
-                                    <h5>About the Service</h5>
-                                    <p>Lorem is Ipsum is simply is design iomyi is text Lorem Ipsum is simply is our
-                                        busi designer is our country.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="single-about-inner">
-                                <div class="details">
-                                    <h5>About the Service</h5>
-                                    <p>Lorem is Ipsum is simply is design iomyi is text Lorem Ipsum is simply is our
-                                        busi designer is our country.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-md-6">
-                            <div class="single-about-inner">
-                                <div class="details">
-                                    <h5>About the Service</h5>
-                                    <p>Lorem is Ipsum is simply is design iomyi is text Lorem Ipsum is simply is our
-                                        busi designer is our country.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="single-about-inner">
-                                <div class="details">
-                                    <h5>About the Service</h5>
-                                    <p>Lorem is Ipsum is simply is design iomyi is text Lorem Ipsum is simply is our
-                                        busi designer is our country.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> --}}
-
+        
             <div class="col-lg-6 wow animated fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.3s">
                 <div class="section-title mt-5 mt-lg-0">
                     <h6 class="sub-title">Transform Your Business with Cutting-Edge Solutions</h6>

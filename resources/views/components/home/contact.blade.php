@@ -18,7 +18,8 @@
                     <div class="section-title mb-0">
                         <h6 class="sub-title">GET IN TOUCH</h6>
                         <h2 class="title">Bringing Your <span>Vision</span> To Life</h2>
-                        <p class="content">We’re here to help with your digital needs, from custom solutions to platform enhancements. Let’s bring your ideas to life and grow your online presence!</p>
+                        <p class="content">We’re here to help with your digital needs, from custom solutions to platform
+                            enhancements. Let’s bring your ideas to life and grow your online presence!</p>
                         <form class="mt-4" action="{{ route('contact.store') }}" method="POST">
                             @csrf
                             <div class="row">
@@ -59,5 +60,19 @@
         </div>
     </div>
 </div>
+
+
+
+<script>
+
+    Swal.fire({
+        position: "top-end",
+        icon: "success",
+        title: "Your work has been saved",
+        showConfirmButton: false,
+        timer: 1500
+    });
+    
+</script>
 
 <!-- Contact Area End -->

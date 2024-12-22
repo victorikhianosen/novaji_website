@@ -85,10 +85,13 @@
                     <h4 class="widget-title">links</h4>
                     <ul>
                         <li><a href=""><i class="fas fa-arrow-right"></i>Service</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>Products</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>About</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>Login</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i> Sign up</a></li>
+                        <li><a href="{{ route('product') }}"><i class="fas fa-arrow-right"></i>Products</a></li>
+                        <li><a href="{{ route('about') }}"><i class="fas fa-arrow-right"></i>About</a></li>
+                        <li><a href="{{ url('https://novajii.com/ords/f?p=bulksms:login') }}"><i
+                                    class="fas fa-arrow-right"></i>Login</a></li>
+                        <li><a
+                                href="{{ url('https://novajii.com/ords/r/sms/bulksms/register?session=170896455302') }}"><i
+                                    class="fas fa-arrow-right"></i> Sign up</a></li>
                     </ul>
                 </div>
             </div>
@@ -97,11 +100,11 @@
                     <h4 class="widget-title">Useful Links
                     </h4>
                     <ul>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>USSD</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>SMS </a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>iComply</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>App Development</a></li>
-                        <li><a href=""><i class="fas fa-arrow-right"></i>Web Development</a></li>
+                        <li><a href="{{ route('ussd') }}"><i class="fas fa-arrow-right"></i>USSD</a></li>
+                        <li><a href="{{ route('sms') }}"><i class="fas fa-arrow-right"></i>SMS </a></li>
+                        <li><a href="{{ route('icomply') }}"><i class="fas fa-arrow-right"></i>iComply</a></li>
+                        <li><a href="{{ route('mobile') }}"><i class="fas fa-arrow-right"></i>App Development</a></li>
+                        <li><a href="{{ route('webapp') }}"><i class="fas fa-arrow-right"></i>Web Development</a></li>
                     </ul>
                 </div>
             </div>
